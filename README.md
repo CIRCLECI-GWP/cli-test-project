@@ -1,4 +1,4 @@
-# circleci-cli-getting-started
+# CLI test project
 
 Sample project for the CircleCI blog tutorial *Getting started with the CircleCI CLI*.
 

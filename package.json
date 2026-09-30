@@ -1,5 +1,5 @@
 {
-  "name": "circleci-cli-getting-started",
+  "name": "cli-test-project",
   "version": "1.0.0",
   "description": "Sample project for the CircleCI blog tutorial Getting started with the CircleCI CLI",
   "private": true,
